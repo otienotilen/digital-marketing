@@ -17,7 +17,7 @@ function Footer() {
           paddingRight: "100px",
         }}
       >
-        Copyright © 2022 laphricamedia. All Rights Reserved.
+        Copyright © 2022 Tilen. All Rights Reserved.
       </span>
     </div>
   );
