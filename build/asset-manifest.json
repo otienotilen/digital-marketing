@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.691f65d7.css",
+    "main.js": "/static/js/main.cba96279.js",
+    "static/js/453.ea41da1c.chunk.js": "/static/js/453.ea41da1c.chunk.js",
+    "static/media/pets.PNG": "/static/media/pets.c24d22ea314992eecb15.PNG",
+    "static/media/kingdom1.PNG": "/static/media/kingdom1.e860cd8ab8f516866f1f.PNG",
+    "static/media/facebook.png": "/static/media/facebook.65e3a48e93a745aa043b.png",
+    "static/media/sancity.PNG": "/static/media/sancity.d5689824222fdbdcca46.PNG",
+    "static/media/Capture2.PNG": "/static/media/Capture2.0e7eb0b386544d01664e.PNG",
+    "static/media/lloyd.PNG": "/static/media/lloyd.da1d94246eeef9fcef9c.PNG",
+    "static/media/flexpay.PNG": "/static/media/flexpay.ab9c6c4a1254489362e2.PNG",
+    "static/media/tiktok.jpg": "/static/media/tiktok.8d25e041efd2f782a03e.jpg",
+    "static/media/biz.PNG": "/static/media/biz.e69e60a6c5ffd2f81593.PNG",
+    "static/media/youtube_003.jpg": "/static/media/youtube_003.789c9b2f1841a917439f.jpg",
+    "static/media/leadgeneration.jpg": "/static/media/leadgeneration.7e16520644a84ef4a1eb.jpg",
+    "static/media/socialmediaadvertising.png": "/static/media/socialmediaadvertising.2f1c4f6a27c8ff7d1425.png",
+    "static/media/abc.jpg": "/static/media/abc.087c3e0754eb4f5044cf.jpg",
+    "static/media/instagram.webp": "/static/media/instagram.3e8c565c3c7e6a5f2ff4.webp",
+    "static/media/blog-03.jpg": "/static/media/blog-03.1bced0df5ad80f8eeb76.jpg",
+    "static/media/contentcreation.jpg": "/static/media/contentcreation.3501b347f22bc687c505.jpg",
+    "static/media/blog-01.jpg": "/static/media/blog-01.67ebb920a48800aa0294.jpg",
+    "static/media/blog-02.jpg": "/static/media/blog-02.6ecd55ed4e6547e4ca0d.jpg",
+    "index.html": "/index.html",
+    "main.691f65d7.css.map": "/static/css/main.691f65d7.css.map",
+    "main.cba96279.js.map": "/static/js/main.cba96279.js.map",
+    "453.ea41da1c.chunk.js.map": "/static/js/453.ea41da1c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.691f65d7.css",
+    "static/js/main.cba96279.js"
+  ]
+}
